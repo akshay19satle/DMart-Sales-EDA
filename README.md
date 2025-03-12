@@ -5,25 +5,25 @@ The DMart dataset provides detailed sales data from DMart, a popular retail chai
 This dataset includes 5189 rows and 9 columns, covering different product categories such as groceries, electronics, and more. The key fields include product names, brands, original and discounted prices, and sales quantities. Additional calculated fields like Revenue and DiscountPercentage help uncover deeper insights into product profitability and discount strategies.
 
 ##  Tech Stack
-Programming Languages – Python
-Libraries – Pandas, NumPy, Matplotlib, Seaborn
-Custom Modules – mymodule (my own module for specific tasks)
-Platform – Google Colab
+1) Programming Languages – Python
+2) Libraries – Pandas, NumPy, Matplotlib, Seaborn
+3) Custom Modules – mymodule (my own module for specific tasks)
+4) Platform – Google Colab
 
 ##  Dataset Overview
 ### Columns-
-Name – Product name
-Brand – Brand of the product
-Price – Original product price
-DiscountedPrice – Discounted selling price
-Category – Product category (e.g., Grocery, Electronics)
-SubCategory – More specific product category
-Quantity – Quantity of the product sold
-Description – Product details or origin
-BreadCrumbs – Category path for easy navigation
+1. Name – Product name
+2. Brand – Brand of the product
+3. Price – Original product price
+4. DiscountedPrice – Discounted selling price
+5. Category – Product category (e.g., Grocery, Electronics)
+6. SubCategory – More specific product category
+7. Quantity – Quantity of the product sold
+8. Description – Product details or origin
+9. BreadCrumbs – Category path for easy navigation
 ### Newly Added Columns
-Revenue - Total revenue generated from the product
-Discount Percentage - Percentage discount offered on the original price
+10. Revenue - Total revenue generated from the product
+11. Discount Percentage - Percentage discount offered on the original price
 
 ## Insights
 Identified top-performing product categories  
