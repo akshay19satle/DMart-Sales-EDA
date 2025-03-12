@@ -21,8 +21,7 @@ This dataset includes 5189 rows and 9 columns, covering different product catego
 7. Quantity – Quantity of the product sold
 8. Description – Product details or origin
 9. BreadCrumbs – Category path for easy navigation
-### Newly Added Columns
-10. Revenue - Total revenue generated from the product
+10. Revenue - Total revenue generated from the product (Newly Added Columns)
 11. Discount Percentage - Percentage discount offered on the original price
 
 ## Insights
